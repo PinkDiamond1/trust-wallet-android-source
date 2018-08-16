@@ -15,9 +15,9 @@ Created new ability to create wallets with backuping password in smart mode, cre
 
 From technical point added two libs for creating wallet:
 
-'com.github.blocoio:faker:1.0.1' - generates passphrase
+com.github.blocoio:faker - generates passphrase
 
-'com.github.Plumillon:ChipView:1.2.0' - provides chips for learning your password
+com.github.Plumillon:ChipView - provides chips for learning your password
     
 
 
