@@ -9,7 +9,8 @@ Website: https://bankex.com
 
 Blog: https://blog.bankex.org/@bankexcom
 
-#Change Log
+# Change Log 
+
 Created new ability to create wallets with backuping password in smart mode, creating of wallet avoided without backuping and remembering password. This feature make you wallet secure and it will be simply restored if it needed.
 
 
