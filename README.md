@@ -12,8 +12,11 @@ Blog: https://blog.bankex.org/@bankexcom
 # Change Log 
 
 Created new ability to create wallets with backuping password in smart mode, creating of wallet avoided without backuping and remembering password. This feature make you wallet secure and it will be simply restored if it needed.
-From technical point added two libs for creating wallet
+
+From technical point added two libs for creating wallet:
+
 'com.github.blocoio:faker:1.0.1' - generates passphrase
+
 'com.github.Plumillon:ChipView:1.2.0' - provides chips for learning your password
     
 
